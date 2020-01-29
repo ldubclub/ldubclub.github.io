@@ -270,11 +270,14 @@ display: none;
 /* CellPhone: */
 
 @media only screen and (max-width:50em) {
+    .bottomparallax{
+        background-size: 100%;
+    }
     #bigtitle {
         font-size: .5em;
     }
     nav {
-        font-size: .25em;
+        font-size: .15em;
     }
     #merchandise {
         font-size: .25em;
