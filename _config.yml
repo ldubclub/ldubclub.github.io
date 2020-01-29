@@ -5,6 +5,7 @@ relative_links:
   collections: true
 include:
   - index.html
+  - aboutme.html
   # - index.md
   # - CONTRIBUTING.md
   # - README.md
